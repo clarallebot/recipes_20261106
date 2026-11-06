@@ -5,4 +5,4 @@
 * salt
 ## Instructions
 * Peel and cut the avocados
-* Add 2 cups of salt
+* Collaborator writes something even crazier here.
